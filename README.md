@@ -23,7 +23,7 @@ Database schema for Fitpulse
 
 The free-to-paid conversion rate for the app stands at 11%, meaning roughly 11 out of every 100 users transition from free features to purchasing a premium subscription. While this rate might seem modest, several factors contribute to it. Many users download the app out of curiosity or for short-term relief from stress or sleep issues, but not all commit to a long-term mental wellness routine. Without clear guidance, some users struggle to engage deeply with features like guided meditations or sleep routines, reducing their likelihood of subscribing.
 
-To address this, the app introduced a personalized wellness roadmap in 2023, tailoring the experience to specific mental health goals like reducing anxiety or improving sleep, thereby fostering deeper connections and increasing conversions. However, barriers like busy schedules, inconsistent routines, or personal mental states also hinder engagement. Some users may delay subscription until prompted by promotions or challenges, highlighting the need for strategies to better address engagement and align with user goals.
+To address this, the app introduced a personalized wellness roadmap in 2023, tailoring the experience to specific mental health goals like reducing anxiety or improving sleep, thereby fostering deeper connections and increasing conversions. However, barriers like busy schedules, inconsistent routines, or personal mental states also hinder engagement. Some users may delay subscriptions until prompted by promotions or challenges, highlighting the need for strategies to better address engagement and align with user goals.
 
 ### **Average Duration Between Registration and First-Time Meditation**
 
@@ -42,7 +42,7 @@ To address this, the app introduced a personalized wellness roadmap in 2023, tai
 - **Immediate Engagers (Mode = 0)**: Most users start meditating on the same day they register, indicating they are highly motivated or curious about the app’s features.
 - **Delayed Engagers (Mean = 3.42)**: Some users take days or weeks to start. These users may need more reminders or guidance to begin their mindfulness journey.
 
-![Histogram of Time Between Registration and First Meditation Session Showing Right-Skewed Distribution](https://prod-files-secure.s3.us-west-2.amazonaws.com/07b99c93-b4fd-4b13-854b-b92974c04feb/bb86a696-0a4e-4ae4-b5d5-6f3caeebc212/Screenshot_2024-12-04_133618.png)
+![Histogram of Time Between Registration and First Meditation Session Showing Right-Skewed Distribution](https://github.com/anthonyrere/Free-to-Paid-Conversion-Rate-for-a-Mental-Health-and-Meditation-App/blob/main/Screenshot%202024-12-04%20133618.png?raw=true)
 
 Histogram of Time Between Registration and First Meditation Session Showing Right-Skewed Distribution
 
@@ -50,7 +50,7 @@ Most users engage with the app on the same day they register, highlighting its s
 
 ### **Average Duration Between First-Time Engagement and First-Time Purchase**
 
-The second metric focuses on the time it takes users to purchase a subscription after their first meditation session. On average, users take 26 days to subscribe after engaging with the app. While this average is insightful, a deeper analysis of the mode and median provides a fuller picture.
+The second metric focuses on when users purchase a subscription after their first meditation session. Users take 26 days to subscribe after engaging with the app. While this average is insightful, a deeper analysis of the mode and median provides a fuller picture.
 
 ### **Statistical Metrics**
 
@@ -63,7 +63,7 @@ The second metric focuses on the time it takes users to purchase a subscription 
 - **Immediate Subscribers (Mode = 0)**: Users who subscribe immediately after their first session likely experience an urgent need for mental health support or are impressed by the app’s features.
 - **Delayed Subscribers (Mean = 26)**: This group takes longer to convert, potentially waiting for discounts or reassessing their commitment to mindfulness practices.
 
-![Histogram of Time Between First Meditation Session and Premium purchase of subscription Showing Right-Skewed Distribution](https://prod-files-secure.s3.us-west-2.amazonaws.com/07b99c93-b4fd-4b13-854b-b92974c04feb/0c081a2e-3eac-48cb-8cc8-459f40157e17/image.png)
+![Histogram of Time Between First Meditation Session and Premium purchase of subscription Showing Right-Skewed Distribution](https://github.com/anthonyrere/Free-to-Paid-Conversion-Rate-for-a-Mental-Health-and-Meditation-App/blob/main/Screenshot%202024-12-04%20143322.png?raw=true)
 
 Histogram of Time Between First Meditation Session and Premium purchase of subscription Showing Right-Skewed Distribution
 
