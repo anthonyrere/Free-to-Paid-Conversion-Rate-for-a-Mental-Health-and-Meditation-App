@@ -9,7 +9,7 @@ At FitPulse, understanding user behavior is key to driving engagement and increa
 
 Key findings reveal that 11% of users upgrade to premium subscriptions after engaging with free features, users take an average of 3–4 days to start using FitPulse’s features after registering (with the majority engaging on the same day), and it takes an average of 26 days for users to subscribe after their initial engagement, highlighting opportunities to shorten this timeline.
 
-![Database schema for Fitpulse](https://prod-files-secure.s3.us-west-2.amazonaws.com/07b99c93-b4fd-4b13-854b-b92974c04feb/651ee98b-b555-4c6b-9303-42b4312310d8/image.png)
+![Database schema for Fitpulse]([https://prod-files-secure.s3.us-west-2.amazonaws.com/07b99c93-b4fd-4b13-854b-b92974c04feb/651ee98b-b555-4c6b-9303-42b4312310d8/image.png](https://github.com/anthonyrere/Free-to-Paid-Conversion-Rate-for-a-Mental-Health-and-Meditation-App/blob/0fac1a19b67457cdb9170848c16c9b0002d2d270/Screenshot%202024-11-29%20123844.png))
 
 Database schema for Fitpulse
 
